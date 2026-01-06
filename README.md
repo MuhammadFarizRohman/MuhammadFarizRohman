@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hallo+Saya+Fariz)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Selamat+datang+di+profile+saya)](https://git.io/typing-svg)
@@ -11,3 +9,6 @@ Saya adalah orang switch karir yang dimana saya berprofesi mulai dari Quality co
 ✍ Saya tertarik di bidang bisnis Insight , Visualisasi , Machine Learning
 <p>
 💻 Kunjungi portofulio Saya
+<p>
+<p>
+Hubungi Saya 
