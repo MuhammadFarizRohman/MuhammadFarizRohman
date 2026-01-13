@@ -16,4 +16,7 @@ yang kini berfokus sebagai **Data Enthusiast, Data Analyst, dan Data Science**.
 💻 Kunjungi [Portofulio Saya](https://github.com/MuhammadFarizRohman) 
 <p>
 📬 Hubungi Saya:
+<p>
+<p align="center">
+  <img src="Logo Linkeind" width="200">
 
