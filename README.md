@@ -18,5 +18,5 @@ yang kini berfokus sebagai **Data Enthusiast, Data Analyst, dan Data Science**.
 📬 Hubungi Saya:
 <p>
 <p align="center">
-  <img src="Logo Linkeind.jpg" width="200">
+  <img src="images.png" width="200">
 
