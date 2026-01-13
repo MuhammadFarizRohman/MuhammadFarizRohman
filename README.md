@@ -17,6 +17,19 @@ yang kini berfokus sebagai **Data Enthusiast, Data Analyst, dan Data Science**.
 <p>
 📬 Hubungi Saya:
 <p>
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-fariz-rohman-riz/" target="_blank">
+  <img src="images.png" width="50">
+<a href="mailto:muhammadfarizr123@gmail.com" target="_blank">
+  <img src="Gmail.png" width="70">
+<a href="https://wa.me/6282141283094" target="_blank">
+  <img src="whatsapp.png" width="50">
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
 <p align="center">
-  <img src="images.png" width="200">
-
+<img src="kirito.gif" width="200">
